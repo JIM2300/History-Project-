@@ -1,0 +1,41 @@
+body {
+  background: #FFFDD0;
+  color: cream;
+  padding: 25px;
+  font-family: sans-serif;
+}
+
+h1{
+  text-align: center;
+  font-style: TimesNewRoman;
+  color: purple;
+}
+
+button{
+ color: purple;
+ padding-bottom: 5px;
+  padding: 5px 15px;
+  font-size: 15px;
+ border-radius: 15px;
+}
+
+h5{
+   text-align: center;
+}
+
+.image-container {
+    text-align: center; /* Optional: Center images horizontally */
+  }
+
+  .image-container img {
+    display: inline-block;
+  }
+  
+  .caption {
+    text-align: center; /* Center the caption text */
+    padding-left: 7px;
+  }
+
+  .img1{
+    padding-left: 180px;
+  }
